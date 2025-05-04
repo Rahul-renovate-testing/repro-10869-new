@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nodemon": "1.0.0",
+    "chalk": "1.0.0"
+  }
+}
